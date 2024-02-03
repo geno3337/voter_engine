@@ -1,0 +1,7 @@
+.cont {
+    width: 100%; /* Set the container width to 100% of its parent */
+    max-width: 100%; /* Optional, but it can be useful to ensure the editor doesn't exceed the container's width */
+  }
+  /* .AE{
+    aspect-ratio: auto 600 / 600;
+  } */

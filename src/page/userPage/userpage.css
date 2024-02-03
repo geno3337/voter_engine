@@ -1,0 +1,18 @@
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* .pg{
+    background-color: red !important;
+} */
+.css-rppfq7-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+    background-color:  #eb5d1e !important;
+}
+.copyright{
+    background-color:#fef8f5;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
